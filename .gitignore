@@ -1,0 +1,6 @@
+*.webm
+*.mp4
+*.avi
+*.weights
+*.names
+*.cfg
